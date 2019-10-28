@@ -201,3 +201,8 @@ gradle-app.setting
 **/build/
 
 # End of https://www.gitignore.io/api/maven,gradle,eclipse,intellij,netbeans
+/.idea/
+/.mvn/
+/zonky-demo.iml
+/mvnw.cmd
+/mvnw
